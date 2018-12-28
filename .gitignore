@@ -1,4 +1,12 @@
 ######################
+# Project Custom
+######################
+bower_components/
+package-lock.json
+
+
+
+######################
 # Project Specific
 ######################
 /src/main/webapp/content/css/main.css
@@ -12,7 +20,6 @@
 /node/
 node_tmp/
 node_modules/
-bower_components/
 npm-debug.log.*
 /.awcache/*
 
